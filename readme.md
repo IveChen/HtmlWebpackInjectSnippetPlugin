@@ -1,6 +1,6 @@
 ### 安装使用
 ```shell
-    npm install HtmlWebpackInjectSnippetPlugin --save-dev
+    npm install html-webpack-inject-snippet-plugin --save-dev
 ```
 
 ```
