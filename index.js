@@ -39,7 +39,6 @@ HtmlWebpackInjectSnippetPlugin.prototype.apply = function (compiler) {
                     }
                 });
             }
-            console.log(pluginData.html)
             callback(null, pluginData);
         });
     });
