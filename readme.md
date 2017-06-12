@@ -4,6 +4,10 @@
 ```
 
 ```
+let HtmlWebpackInjectSnippetPlugin = require('html-webpack-inject-snippet-plugin')
+
+...
+
 {
     plugins:[
         new HtmlWebpackInjectSnippetPlugin({

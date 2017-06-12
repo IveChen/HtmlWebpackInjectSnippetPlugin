@@ -1,6 +1,6 @@
 {
-  "name": "htmlwebpackinjectsnippetplugin",
-  "version": "1.0.0",
+  "name": "html-webpack-inject-snippet-plugin",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
