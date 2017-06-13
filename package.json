@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-inject-snippet-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IveChen/HtmlWebpackInjectSnippetPlugin.git"
+    "url": "git+https://github.com/IveChen/html-webpack-inject-snippet-plugin.git"
   },
   "author": "Ive.Chen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IveChen/HtmlWebpackInjectSnippetPlugin/issues"
+    "url": "https://github.com/IveChen/html-webpack-inject-snippet-plugin/issues"
   },
-  "homepage": "https://github.com/IveChen/HtmlWebpackInjectSnippetPlugin#readme"
+  "homepage": "https://github.com/IveChen/html-webpack-inject-snippet-plugin#readme"
 }
